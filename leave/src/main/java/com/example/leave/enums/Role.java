@@ -1,0 +1,5 @@
+package com.example.leave.enums;
+
+public enum Role {
+    ROLE_EMPLOYEE, ROLE_MANAGER, ROLE_ADMIN
+}
